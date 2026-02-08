@@ -40,4 +40,4 @@ jobs:
     - name: Connect To Your RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
     - name: RDP telah berhasil dibuat!!! Jangan lupa subscribe Moku Mitshu
-      run: cmd /c loop.bat
+      run: cmd /c loop.bat 
